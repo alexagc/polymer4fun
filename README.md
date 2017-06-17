@@ -1,2 +1,2 @@
 # polymer4fun
-Polymer example
+Polymer examples components
